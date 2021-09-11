@@ -1,6 +1,6 @@
 # github-finder-netlify
 
-##github finder app deployed on netlify
+## github finder app deployed on netlify
 
 How to use : just visit https://parwinders.github.io/github-finder-ghp/
 
